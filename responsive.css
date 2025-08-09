@@ -1,0 +1,4 @@
+@media (max-width: 480px) {
+  input { width: 60%; }
+  .weather-card { padding: 15px; }
+}
